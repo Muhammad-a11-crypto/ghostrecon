@@ -82,7 +82,7 @@ GhostRecon/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/0xdzubair/ghostrecon.git
+git clone https://github.com/Muhammad-a11-crypto/ghostrecon.git
 cd ghostrecon
 ```
 
